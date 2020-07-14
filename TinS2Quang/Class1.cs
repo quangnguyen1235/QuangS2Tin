@@ -6,5 +6,6 @@ namespace TinS2Quang
     {
         public int Id { get; set; }
         public string Tin { get; set; }
+        public int QuangID { get; set; }
     }
 }
